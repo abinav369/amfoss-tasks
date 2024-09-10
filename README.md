@@ -1,19 +1,19 @@
-**Self Intro:**
-Vanakam(Greetings in tamil) all!! 
-I am Abinav of CSE-B. 
-I am from Tamil Nadu. 
-I am a linux enthusiast. 
-I do have knowledge on programming . 
-I have learnt C++(Hopefully I remeber), Python and currently learning Golang. But, my logical part needs working though. 
-I have also written a bash script and hence I do have some knowledge on bash scripting. 
-If you wish you can check these two youtube channels of mine. https://www.youtube.com/@Mr_Mighty (currently inactive) https://www.youtube.com/@anbu-amma 
-I do know git for version control ofcourse. 
-I go with the philosophy of open source. 
-I wish to know the engineering part of everything that I use, apart from the end user part. 
-I am interested in flute( I have started learning but I need a tutor) and I am good at table tennis. It is like more of what I know than a self-intro. 
-I use arch btw.
+#Self Intro:
+1. Vanakam(Greetings in tamil) all!! 
+2. I am Abinav of CSE-B. 
+3. I am from Tamil Nadu. 
+4. I am a linux enthusiast. 
+5. I do have knowledge on programming . 
+6. I have learnt C++(Hopefully I remeber), Python and currently learning Golang. But, my logical part needs working though. 
+7. I have also written a bash script and hence I do have some knowledge on bash scripting. 
+8. If you wish you can check these two youtube channels of mine. https://www.youtube.com/@Mr_Mighty (currently inactive) https://www.youtube.com/@anbu-amma 
+9. I do know git for version control ofcourse. 
+10. I go with the philosophy of open source. 
+11. I wish to know the engineering part of everything that I use, apart from the end user part. 
+12. I am interested in flute( I have started learning but I need a tutor) and I am good at table tennis. It is like more of what I know than a self-intro. 
+13. I use arch btw.
 
-**Why should you take me in your club?**
+**Why should you take me in your club?**  
 I will go with points:
 - I am a guy who is interested in linux.
 - I would like to contribute to open source as I have grown using them.
