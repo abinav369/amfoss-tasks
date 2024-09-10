@@ -35,7 +35,7 @@
 
 |Tasks|Status|
 |:-------:|--------:|
-|00|style="color:green"> *Completed*</span>|
+|00|Completed|
 |01|Completed|
 |02|Completed|
 |03|Completed|
