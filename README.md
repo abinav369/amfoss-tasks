@@ -1,4 +1,4 @@
-#Self Intro:
+**Self Intro:**
 1. Vanakam(Greetings in tamil) all!! 
 2. I am Abinav of CSE-B. 
 3. I am from Tamil Nadu. 
@@ -14,7 +14,6 @@
 13. I use arch btw.
 
 **Why should you take me in your club?**  
-I will go with points:
 - I am a guy who is interested in linux.
 - I would like to contribute to open source as I have grown using them.
 - I will learn from and also teach to other members of the club.
