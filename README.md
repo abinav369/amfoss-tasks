@@ -18,10 +18,10 @@
 - I would like to contribute to open source as I have grown using them.
 - I will learn from and also teach to other members of the club.
 
-**My intention of contribution back to club**
+**My intention of contribution back to club:**
 - As I said earlier I will teach what I learnt with the other members of the club.
 
-**My field of interest**
+**My field of interest:**
 - I am interested in various unrelated things:
   - Block chain
   - Linux as a whole (one day I might go for linux from scratch)
