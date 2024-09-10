@@ -32,3 +32,16 @@
   - Flute
   - Table Tennis
 - To balace all this I should I am planning to manage my time by making a time table and following it.
+
+|Tasks|Status|
+|:-------:|--------:|
+|01|Completed|
+|02|Completed|
+|03|Completed|
+|04|Completed|
+|05|Completed|
+|06|Completed|
+|07|Completed|
+|08|Completed|
+|09|Completed|
+|10|Completed|
