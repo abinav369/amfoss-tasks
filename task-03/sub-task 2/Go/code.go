@@ -1,17 +1,19 @@
 package main
 
 import (
-	"io/ioutil"
 	"log"
+	"os"
 )
 
 func main() {
-	content, err := ioutil.ReadFile("/home/abinav/git/amfoss-tasks/task-03/sub-task 2/input.txt")
+	// Read the file using os.ReadFile
+	content, err := os.ReadFile("/home/abinav/git/amfoss-tasks/task-03/sub-task 2/input.txt")
 	if err != nil {
 		log.Fatal(err)
 	}
 
-	err = ioutil.WriteFile("/home/abinav/git/amfoss-tasks/task-03/sub-task 2/Go/output.txt", content, 0644)
+	// Write the file using os.WriteFile
+	err = os.WriteFile("/home/abinav/git/amfoss-tasks/task-03/sub-task 2/Go/output.txt", content, 0644)
 	if err != nil {
 		log.Fatal(err)
 	}
