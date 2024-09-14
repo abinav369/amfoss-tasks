@@ -6,7 +6,7 @@
 5. I do have knowledge on programming . 
 6. I have learnt C++(Hopefully I remeber), Python and currently learning Golang. But, my logical part needs working though. 
 7. I have also written a bash script and hence I do have some knowledge on bash scripting. 
-8. If you wish you can check these two youtube channels of mine. https://www.youtube.com/@Mr_Mighty (currently inactive) https://www.youtube.com/@anbu-amma 
+8. If you wish you can check these two youtube channels of mine. https://www.youtube.com/@Mr_Mighty (currently inactive) and https://www.youtube.com/@anbu-amma  
 9. I do know git for version control ofcourse. 
 10. I go with the philosophy of open source. 
 11. I wish to know the engineering part of everything that I use, apart from the end user part. 
