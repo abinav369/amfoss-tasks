@@ -25,6 +25,7 @@
 - I am interested in various unrelated things:
   - Block chain
   - Linux as a whole (one day I might go for linux from scratch)
+  - Ricing Window managers
   - Spirituality
   - Philosophy
   - Stock trading
