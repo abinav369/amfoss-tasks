@@ -26,6 +26,7 @@
   - Block chain
   - Linux as a whole (one day I might go for linux from scratch)
   - Ricing Window managers
+  - Posting Youtube tutorials
   - Spirituality
   - Philosophy
   - Stock trading
