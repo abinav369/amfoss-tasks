@@ -1,4 +1,4 @@
-**Self Intro:**
+# Self Intro
 1. Vanakam(Greetings in tamil) all!! 
 2. I am Abinav of CSE-B. 
 3. I am from Tamil Nadu. 

@@ -1,4 +1,4 @@
-# Telegram bot:
+# Telegram bot
 1. Create a python virtual env named task-04
 
 `python -m venv task-04`
@@ -15,4 +15,6 @@
 
 6. I came over many obstacles and errors by fixing them using chatgpt. 
 
-7. Finally I completed the task. 
+7. Finally I completed the task within half a day. 
+
+PS: I think the saying, "AI will not replace the people but People who know to use the AI will replace those who don't" is true.

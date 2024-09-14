@@ -1,1 +1,2 @@
-This was an interesting task because I always wanted to learn touch typing an d I have been typing in that way since I stared using linux. As I didn't not focus on speed this whole time, now I can barely cross the 60 wpm mark for this task.
+# Type Maestro
+This was an interesting task because I always wanted to learn touch typing an d I have been typing in that way since I started using linux. As I didn't not focus on speed this whole time, now I can barely cross the 60 wpm mark for this task.
